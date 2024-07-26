@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pavi-1210/chat/static/css/main.19f83242.css",
-    "main.js": "/Pavi-1210/chat/static/js/main.90687dd4.js",
-    "static/js/453.9c8709a5.chunk.js": "/Pavi-1210/chat/static/js/453.9c8709a5.chunk.js",
-    "static/media/RobotoMono-VariableFont_wght.ttf": "/Pavi-1210/chat/static/media/RobotoMono-VariableFont_wght.e14e25b7c497634efdfe.ttf",
-    "index.html": "/Pavi-1210/chat/index.html",
-    "main.19f83242.css.map": "/Pavi-1210/chat/static/css/main.19f83242.css.map",
-    "main.90687dd4.js.map": "/Pavi-1210/chat/static/js/main.90687dd4.js.map",
-    "453.9c8709a5.chunk.js.map": "/Pavi-1210/chat/static/js/453.9c8709a5.chunk.js.map"
+    "main.css": "/chat/static/css/main.5fdd5af9.css",
+    "main.js": "/chat/static/js/main.9778235a.js",
+    "static/js/453.9c8709a5.chunk.js": "/chat/static/js/453.9c8709a5.chunk.js",
+    "static/media/RobotoMono-VariableFont_wght.ttf": "/chat/static/media/RobotoMono-VariableFont_wght.e14e25b7c497634efdfe.ttf",
+    "index.html": "/chat/index.html",
+    "main.5fdd5af9.css.map": "/chat/static/css/main.5fdd5af9.css.map",
+    "main.9778235a.js.map": "/chat/static/js/main.9778235a.js.map",
+    "453.9c8709a5.chunk.js.map": "/chat/static/js/453.9c8709a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19f83242.css",
-    "static/js/main.90687dd4.js"
+    "static/css/main.5fdd5af9.css",
+    "static/js/main.9778235a.js"
   ]
 }
